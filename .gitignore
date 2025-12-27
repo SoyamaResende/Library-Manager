@@ -1,0 +1,17 @@
+# --- Arquivos Compilados (Task 3) ---
+*.class
+target/
+out/
+
+# --- Arquivos de Configuração do IntelliJ (Task 3) ---
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# --- Arquivos de Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Maven Wrapper (Opcional, mas bom manter) ---
+!.mvn/wrapper/maven-wrapper.jar
